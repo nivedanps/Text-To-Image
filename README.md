@@ -1,1 +1,1 @@
- This repository Convert the thought into images
+ This repository has helps to Convert the thought into images
